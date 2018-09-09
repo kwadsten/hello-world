@@ -1,2 +1,6 @@
 # hello-world
-Testing github
+
+This is a test of the new branch (readme-edits).
+
+Goodbye for now.
+
